@@ -18,7 +18,7 @@ Hi all techies!!
 I am Riya Sara Mathew currently a 3rd year student pursuing Computer Science and Engineering.
 Always looking for opportunities to grow more knowledged.
 
-- 🔭 I’m currently working on strengthening my DSA concepts and looking for internships. and on Web development
+- 🔭 I’m currently working on strengthening my DSA concepts and looking for internships.
 - 🌱 I’m currently learning Machine learing, Web Development - MERN Stack.
 - 👯 I’m looking to collaborate on any **AI** or **Web development** related project.
 - 💬 Ask me about DSA, ML, Web development
