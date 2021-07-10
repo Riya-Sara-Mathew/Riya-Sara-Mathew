@@ -1,0 +1,26 @@
+### Hi there 👋
+
+<!--
+**Riya-Sara-Mathew/Riya-Sara-Mathew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+Hi all techies!!
+I am Riya Sara Mathew currently a 3rd year student pursuing Computer Science and Engineering.
+Always looking for opportunities to grow more knowledged.
+
+- 🔭 I’m currently working on strengthening my DSA concepts and looking for internships. and on Web development
+- 🌱 I’m currently learning Machine learing, Web Development - MERN Stack.
+- 👯 I’m looking to collaborate on any **AI** or **Web development** related project.
+- 💬 Ask me about DSA, ML, Web development
+- 📫 How to reach me: riya.s.mathew47@gmail.com 
+- ⚡ Fun fact: No one knows entirely about anything.
